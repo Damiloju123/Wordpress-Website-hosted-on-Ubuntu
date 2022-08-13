@@ -16,7 +16,7 @@ Command: vagrant init ubuntu/bionic64-i
 
 Step 5 - Use vim editor to modify the vagrantfile configuration. (this is to enable IP the address)
 
-
+![network permissions](https://user-images.githubusercontent.com/52894481/184517030-ade41eb0-dcac-4080-92b4-238eb4c34c93.PNG)
 
 Step 6 - Bring up the vm
 
@@ -98,3 +98,5 @@ Step 16 - Configure WordPress to connect to the database
 Follow the Ubuntu document.
 
 Step 17 - Access the wordpress website with the IP Address of th VM
+
+ ![wordpress](https://user-images.githubusercontent.com/52894481/184517042-e44ba4bf-cfb1-40b2-87f9-2e818a6413da.PNG)
